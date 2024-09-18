@@ -1,56 +1,28 @@
 const boxes = [
     `<div class="bg-card">
         <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <img src="../assets/pic-lina.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
-                <p id="nome">Alexandre Silva de Faria</p>
-                <span id="idade">24 anos</span>
+                <p id="nome">Carolina Santana Ferraz</p>
+                <span id="idade">21 anos</span>
                 <p id="area">Dev. Full-Stack</p>
                 <div class="media">
-                    <a href="https://github.com/alefaria577" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/alexandrefariadev/ " class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://github.com/Linasferraz" class="icon-card"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/carolina-santana-ferraz-126554245/ " class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
     </div>
         <div class="bg-card">
         <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <img src="../assets/pic-evellyn.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
-                <p id="nome">Evellyn Valencia</p>
+                <p id="nome">Evellyn Valencia Choque</p>
                 <span id="idade">20 anos</span>
                 <p id="area">Dev. Front-End</p>
                 <div class="media">
                     <a href="https://github.com/evojeda" class="icon-card"><i class="fa-brands fa-github"></i></a>
                     <a href="https://www.linkedin.com/in/evellyn-valencia-5b11082a5?trk=contact-info" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>`,
-    `<div class="bg-card">
-        <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
-            <div class="box-info">
-                <p id="nome">Luiz Gustavo</p>
-                <span id="idade">18 anos</span>
-                <p id="area">Dev. Full-Stack</p>
-                <div class="media">
-                    <a href="https://github.com/luyz-gusta" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/luyz-gusta/" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="bg-card">
-        <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
-            <div class="box-info">
-                <p id="nome">Luiz Gustavo3</p>
-                <span id="idade">18 anos</span>
-                <p id="area">Dev. Full-Stack</p>
-                <div class="media">
-                    <a href="#" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="#" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
@@ -74,65 +46,37 @@ const boxes = [
 const boxes2 = [
     `<div class="bg-card">
         <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <img src="../assets/pic-lina.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
-                <p id="nome">Luiz Gustavo0</p>
-                <span id="idade">18 anos</span>
+                <p id="nome">Carolina Santana Ferraz</p>
+                <span id="idade">21 anos</span>
                 <p id="area">Dev. Full-Stack</p>
                 <div class="media">
-                    <a href="#" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="#" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://github.com/Linasferraz" class="icon-card"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/carolina-santana-ferraz-126554245/" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
     </div>`,
     `<div class="bg-card">
         <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <img src="../assets/pic-evellyn.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
-                <p id="nome">Luiz Gustavo1</p>
-                <span id="idade">18 anos</span>
+                <p id="nome">Evellyn Valencia Choque</p>
+                <span id="idade">20 anos</span>
                 <p id="area">Dev. Full-Stack</p>
                 <div class="media">
-                    <a href="#" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="#" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://github.com/evojeda" class="icon-card"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/evellyn-valencia-5b11082a5?trk=contact-info" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
     </div>`,
     `<div class="bg-card">
         <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <img src="../assets/pic-milena.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
-                <p id="nome">Luiz Gustavo2</p>
-                <span id="idade">18 anos</span>
-                <p id="area">Dev. Full-Stack</p>
-                <div class="media">
-                    <a href="https://github.com/luyz-gusta" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/luyz-gusta/" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>`,
-    `<div class="bg-card">
-        <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
-            <div class="box-info">
-                <p id="nome">Luiz Gustavo3</p>
-                <span id="idade">18 anos</span>
-                <p id="area">Dev. Full-Stack</p>
-                <div class="media">
-                    <a href="#" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="#" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>`,
-    `<div class="bg-card">
-        <div class="card">
-            <img src="../assets/pic-milena.png" class="img-card" alt="Imagem da desenvolvedora milena">
-            <div class="box-info">
-                <p id="nome">Milena</p>
+                <p id="nome">Milena Codinhoto da Silva</p>
                 <span id="idade">18 anos</span>
                 <p id="area">Dev. Full-Stack</p>
                 <div class="media">

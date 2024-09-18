@@ -30,6 +30,7 @@ main {
 }
 
 .card {
+    cursor: pointer;
     display: flex;
     justify-items: center;
     align-items: center;
@@ -39,6 +40,12 @@ main {
     border-radius: 8px;
     box-shadow: 3.386px 3.386px 3.386px 0.846px rgba(0, 0, 90, 0.83);
     background: var(--linear-gradient-cyan);
+    transition: transform 0.3s ease; /* Suavidade na transição */
+}
+
+.card:hover {
+    transform: scale(1.1); /* Amplia o card em 10% */
+    box-shadow: 5px 5px 15px rgba(0, 0, 90, 0.5); /* Aumenta a sombra ao passar o mouse */
 }
 
 .box {
