@@ -39,7 +39,6 @@ const boxes = [
     </div>`,
     `<div class="bg-card">
         <div class="card">
-<<<<<<< HEAD
             <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
                 <p id="nome">Luiz Gustavo</p>
