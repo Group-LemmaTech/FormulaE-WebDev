@@ -5,19 +5,29 @@ const boxes = [
             <div class="box-info">
                 <p id="nome">Alexandre Silva</p>
                 <span id="idade">24 anos</span>
+
+            <img src="../assets/pic-lina.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <div class="box-info">
+                <p id="nome">Carolina Santana Ferraz</p>
+                <span id="idade">21 anos</span>
+
                 <p id="area">Dev. Full-Stack</p>
                 <div class="media">
-                    <a href="https://github.com/alefaria577" class="icon-card"><i class="fa-brands fa-github"></i></a>
-                    <a href="https://www.linkedin.com/in/alexandrefariadev/ " class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+                    <a href="https://github.com/Linasferraz" class="icon-card"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/carolina-santana-ferraz-126554245/ " class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
     </div>
         <div class="bg-card">
         <div class="card">
+
             <img src="../assets/pic-evellyn.jpg" class="img-card radius" alt="Imagem do desenvolvedor Luiz">
+
+            <img src="../assets/pic-evellyn.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+
             <div class="box-info">
-                <p id="nome">Evellyn Valencia</p>
+                <p id="nome">Evellyn Valencia Choque</p>
                 <span id="idade">20 anos</span>
                 <p id="area">Dev. Front-End</p>
                 <div class="media">
@@ -29,6 +39,7 @@ const boxes = [
     </div>`,
     `<div class="bg-card">
         <div class="card">
+<<<<<<< HEAD
             <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
                 <p id="nome">Luiz Gustavo</p>
@@ -57,6 +68,7 @@ const boxes = [
     </div>`,
     `<div class="bg-card">
         <div class="card">
+
             <img src="../assets/pic-milena.png" class="img-card" alt="Imagem da desenvolvedora milena">
             <div class="box-info">
                 <p id="nome">Milena</p>
@@ -96,14 +108,25 @@ const boxes2 = [
                 <div class="media">
                     <a href="https://github.com/evojeda" class="icon-card"><i class="fa-brands fa-github"></i></a>
                     <a href="https://www.linkedin.com/in/evellyn-valencia-5b11082a5?trk=contact-info" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+
+            <img src="../assets/pic-lina.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <div class="box-info">
+                <p id="nome">Carolina Santana Ferraz</p>
+                <span id="idade">21 anos</span>
+                <p id="area">Dev. Full-Stack</p>
+                <div class="media">
+                    <a href="https://github.com/Linasferraz" class="icon-card"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/carolina-santana-ferraz-126554245/" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+
                 </div>
             </div>
         </div>
     </div>`,
     `<div class="bg-card">
         <div class="card">
-            <img src="../assets/pic-luiz.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <img src="../assets/pic-evellyn.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
             <div class="box-info">
+
                 <p id="nome">Luiz Gustavo</p>
                 <span id="idade">18 anos</span>
                 <p id="area">Dev. Full-Stack</p>
@@ -124,6 +147,12 @@ const boxes2 = [
                 <div class="media">
                     <a href="https://github.com/MarcelloFMoreira" class="icon-card"><i class="fa-brands fa-github"></i></a>
                     <a href="https://www.linkedin.com/in/marcello-moreira-879a8a205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
+                <p id="nome">Evellyn Valencia Choque</p>
+                <span id="idade">20 anos</span>
+                <p id="area">Dev. Full-Stack</p>
+                <div class="media">
+                    <a href="https://github.com/evojeda" class="icon-card"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/evellyn-valencia-5b11082a5?trk=contact-info" class="icon-card"><i class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
         </div>
@@ -133,6 +162,9 @@ const boxes2 = [
             <img src="../assets/pic-milena.png" class="img-card" alt="Imagem da desenvolvedora milena">
             <div class="box-info">
                 <p id="nome">Milena</p>
+            <img src="../assets/pic-milena.png" class="img-card" alt="Imagem do desenvolvedor Luiz">
+            <div class="box-info">
+                <p id="nome">Milena Codinhoto da Silva</p>
                 <span id="idade">18 anos</span>
                 <p id="area">Dev. Full-Stack</p>
                 <div class="media">
