@@ -23,8 +23,6 @@ Após o login você será redirecionado para o dashboard de visualização dos d
 | ------------- | ------ | -- |
 | ![](https://img.shields.io/badge/DESENVOLVEDOR-Alexandre-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/alefaria577"><img src="https://avatars.githubusercontent.com/u/132949575?v=4" height="50" style="max-width: 100%;"></a> | RM558270 |
 | ![](https://img.shields.io/badge/DESENVOLVEDOR-Evellyn-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/evojeda"><img src="https://avatars.githubusercontent.com/u/162588593?v=4" height="50" style="max-width: 100%;"></a>  | RM557929 |
-| ![](https://img.shields.io/badge/DESENVOLVEDOR-LuizGustavo-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/luyz-gusta"><img src="https://avatars.githubusercontent.com/u/110852235?v=4" height="50" style="max-width: 100%;"></a> | RM558358 |
-| ![](https://img.shields.io/badge/DESENVOLVEDOR-Marcello-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/MarcelloFMoreira"><img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;"></a> | RM557531 |
-| ![](https://img.shields.io/badge/DESENVOLVEDOR-Milena-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/MilenaCodinhoto"><img src="https://avatars.githubusercontent.com/u/19381239?v=4" height="50" style="max-width: 100%;"></a>             |RM554682 |
+| ![](https://img.shields.io/badge/DESENVOLVEDOR-Milena-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/MilenaCodinhoto"><img src="https://avatars.githubusercontent.com/u/19381239?v=4" height="50" style="max-width: 100%;"></a> |RM554682 |
 
 
